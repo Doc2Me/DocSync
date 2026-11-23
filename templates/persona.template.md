@@ -3,6 +3,7 @@ id: ""
 name: ""
 description: ""
 version: "1.0.0"
+extends: []
 ---
 
 # Persona: [Name]
