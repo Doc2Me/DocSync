@@ -34,14 +34,6 @@ What does this persona needs to accomplish with the software?
 - Familiarity with project-specific terminology.
 - Knowledge of internal implementation details.
 
-## Use cases
-
-Describe typical situations in which this persona needs documentation.
-
-## Questions
-
-List typical questions this persona expects documentation to answer.
-
 ## Documentation needs
 
 - Required documentation types.
@@ -78,11 +70,3 @@ Information relevant to this persona.
 ### Exclude
 
 Information that is irrelevant, unnecessarily complex or intended for other personas.
-
-## Success criteria
-
-Define what the persona should be able to understand or accomplish after consuming the documentation.
-
-## Validation
-
-Define how to evaluate whether generated documentation meets this persona's needs.
