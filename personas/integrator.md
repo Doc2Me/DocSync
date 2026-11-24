@@ -1,7 +1,7 @@
 ---
 id: integrator
 name: Integrator
-description: "Conects the software with other software or environments."
+description: "Connects the software with other software or environments."
 version: "1.0.0"
 ---
 
