@@ -1,73 +1,62 @@
 ---
-id: ""
-name: ""
-description: ""
+id: translator
+name: Translator
+description: "Adapts project content for another language or locale."
 version: "1.0.0"
-extends: []
 ---
 
-# Persona: [Name]
+# Persona: Translator
 
 ## Profile
 
-Describe persona's role, responsibilities, and relationship with the software.
+A person who translates or localizes software-facing or documentation content while preserving meaning, usability, and relevant conventions.
 
 ## Goals
 
-What does this persona needs to accomplish with the software?
+- Produce accurate, natural, consistent translations.
+- Preserve semantic meaning and functional elements.
+- Keep localized content aligned with source changes.
 
 ## Knowledge
 
 ### Assumed knowledge
 
-- Concepts the persona already understands.
-- Expected technical proficiency.
-- Familiar tools and technologies.
+Proficiency in relevant source and target languages and basic translation practices.
 
 ### Required knowledge
 
-- Project-specific concepts they need to understand and learn.
-- Prerequisities for accomplishing their goals.
+- Project terminology, translation scope, locale conventions, and translation workflow.
+- Treatment of placeholders, markup, non-translatable elements, and contextual ambiguities.
 
 ### Knowledge not to assume
 
-- Technical concepts outside their expertise.
-- Familiarity with project-specific terminology.
-- Knowledge of internal implementation details.
+- Programming, a specific localization platform, or authority to change the content.
+- Familiarity with technical terminology or project architecture.
 
 ## Documentation needs
 
-- Required documentation types.
-- Expected depth of information.
-- Relevant technical details.
-- Required examples and explanations.
+Translation guides, glossaries, context references, localization workflows, and review criteria.
 
 ## Content guidelines
 
 ### Language
 
-- Vocabulary and terminology.
-- Tone and level of formality.
-- When to explain technical terms.
+Use clear language and identify source meaning; distinguish literal wording from intended meaning.
 
 ### Structure
 
-- Preferred information organisation.
-- Expected level of detail.
-- Use of examples, diagrams and code snippets.
+Show context, source references, and relevant constraints alongside translation guidance.
 
 ### Context
 
-- Information that must be provided before introducing new concepts.
-- Relevant connections to other components.
-- Version-specific considerations.
+Identify source version, locale, audience, and formatting conventions.
 
 ## Scope
 
 ### Include
 
-Information relevant to this persona.
+Terminology, meaning, contextual examples, translatable elements, and locale-specific constraints.
 
 ### Exclude
 
-Information that is irrelevant, unnecessarily complex or intended for other personas.
+Unnecessary programming detail and unauthorised changes to source meaning or functional tokens.
