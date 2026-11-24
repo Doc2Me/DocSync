@@ -25,17 +25,13 @@ Basic understanding of software interfaces, dependencies, configuration, and sys
 
 ### Required knowledge
 
-- Supported integration mechanisms, compatibility requirements, data exchange, and operational constraints.
+- Supported integration mechanisms, compatibility requirements, interface contracts, data exchange, and operational constraints.
 - How to configure, verify, and troubleshoot the integration.
 
 ### Knowledge not to assume
 
 - A particular protocol, language, deployment platform, or access to either system's internals.
 - Upstream contribution or maintenance authority.
-
-## Documentation needs
-
-Integration guides, compatibility references, configuration references, interface contracts, migration and troubleshooting guides.
 
 ## Content guidelines
 

@@ -28,19 +28,16 @@ What does this persona needs to accomplish with the software?
 
 - Project-specific concepts they need to understand and learn.
 - Prerequisities for accomplishing their goals.
+- Required documentation types.
+- Expected depth of information.
+- Relevant technical details.
+- Required examples and explanations.
 
 ### Knowledge not to assume
 
 - Technical concepts outside their expertise.
 - Familiarity with project-specific terminology.
 - Knowledge of internal implementation details.
-
-## Documentation needs
-
-- Required documentation types.
-- Expected depth of information.
-- Relevant technical details.
-- Required examples and explanations.
 
 ## Content guidelines
 

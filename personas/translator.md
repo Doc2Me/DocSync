@@ -27,15 +27,12 @@ Proficiency in relevant source and target languages and basic translation practi
 
 - Project terminology, translation scope, locale conventions, and translation workflow.
 - Treatment of placeholders, markup, non-translatable elements, and contextual ambiguities.
+- Translation guides, glossaries, context references, and review criteria.
 
 ### Knowledge not to assume
 
 - Programming, a specific localization platform, or authority to change the content.
 - Familiarity with technical terminology or project architecture.
-
-## Documentation needs
-
-Translation guides, glossaries, context references, localization workflows, and review criteria.
 
 ## Content guidelines
 

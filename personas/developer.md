@@ -26,17 +26,14 @@ A person who writes or modifies software in relation to the project. They may de
 
 ### Required knowledge
 
-- Relevant public interfaces, data models, lifecycle, and extension mechanisms.
+- Relevant public API and interfaces, data models, lifecycle, and extension mechanisms.
 - Supported versions, dependencies, constraints, and expected behaviour.
+- Implementation explanations, practical examples, migration guidance, and troubleshooting.
 
 ### Knowledge not to assume
 
 - A particular language, framework, platform, or repository workflow.
 - Knowledge of internal architecture or upstream contribution procedures.
-
-## Documentation needs
-
-API and interface references, implementation explanations, practical examples, migration guidance, and troubleshooting.
 
 ## Content guidelines
 

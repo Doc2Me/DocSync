@@ -25,17 +25,14 @@ Basic understanding of collaborative maintenance, review, and lifecycle manageme
 
 ### Required knowledge
 
-- Assigned maintenance scope, decision rights, quality criteria, and escalation routes.
+- Assigned maintenance scope, decision rights and records, lifecycle policies, quality criteria, and escalation routes.
 - Relevant review, release, deprecation, and handover procedures.
+- Maintenance and handover guidance.
 
 ### Knowledge not to assume
 
 - Authority over every component, release, or governance decision.
 - A particular technical stack, permission model, or release cadence.
-
-## Documentation needs
-
-Maintenance guides, review criteria, lifecycle policies, release procedures, decision records, and handover guidance.
 
 ## Content guidelines
 

@@ -25,16 +25,12 @@ A person who facilitates planning, alignment, communication, and handoffs among 
 
 ### Required knowledge
 
-- Project roles, decision-making processes, communication channels, and work-tracking conventions.
-- Relevant milestones, dependencies, handoffs, and escalation routes.
+- Project roles, decision-making processes, communication channels, planning and meeting guidance, and work-tracking conventions.
+- Relevant milestones, dependencies, decision or handover records, and escalation routes.
 
 ### Knowledge not to assume
 
 - Managerial authority, technical expertise, access to private systems, or a specific project methodology.
-
-## Documentation needs
-
-Process guides, role descriptions, planning and meeting guidance, status references, and decision or handover records.
 
 ## Content guidelines
 

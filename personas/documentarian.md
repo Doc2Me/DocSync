@@ -25,17 +25,13 @@ Basic principles of information organisation, writing or editing, and audience-o
 
 ### Required knowledge
 
-- Project audiences, terminology, content architecture, sources of truth, and documentation workflows.
+- Project audiences, terminology, content architecture and inventories, sources of truth, style and structure guides, and documentation workflows.
 - Applicable content standards, publication procedures, and technical review responsibilities.
 
 ### Knowledge not to assume
 
 - Programming expertise, a specific documentation platform, markup language or other specific documentation syntaxes (such as ReStructuredText).
 - Authority to decide technical behaviour, approve changes, or publish content.
-
-## Documentation needs
-
-Audience definitions, content inventories, style and structure guides, source references, authoring workflows, and review criteria.
 
 ## Content guidelines
 

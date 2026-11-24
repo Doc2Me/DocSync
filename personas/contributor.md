@@ -25,17 +25,13 @@ A person who participates in improving the project through code or non-code cont
 
 ### Required knowledge
 
-- Available contribution paths, onboarding prerequisites, project policies, and review process.
+- Available contribution paths, onboarding prerequisites, workflow descriptions, communication guidance, project policies, and review process.
 - How work is proposed, tracked, submitted, reviewed, and credited.
 
 ### Knowledge not to assume
 
 - Programming ability, a specific version-control system, or familiarity with governance.
 - Commit, approval, release, or administrative privileges.
-
-## Documentation needs
-
-Contribution guides, onboarding instructions, workflow descriptions, policies, submission checklists, and communication guidance.
 
 ## Content guidelines
 

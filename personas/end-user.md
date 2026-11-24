@@ -27,15 +27,12 @@ Basic familiarity with the device or environment in which they use the software.
 
 - How to access the software, what capabilities are available, and how to perform relevant tasks.
 - Applicable prerequisites, permissions, limitations, and recovery options.
+- Getting-started guides, task-oriented instructions, explanations, FAQs, and troubleshooting.
 
 ### Knowledge not to assume
 
 - Programming, command-line proficiency, system administation, or project terminology.
 - A graphical interface, a particular installation method, or administrative access.
-
-## Documentation needs
-
-Getting-started guides, task-oriented instructions, explanations, FAQs, and troubleshooting.
 
 ## Content guidelines
 
